@@ -1,0 +1,3 @@
+-r requirements-desktop.txt
+-r requirements-automation.txt
+pyinstaller>=6,<7

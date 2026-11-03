@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cleanplate": {
+      "command": "CleanPlateControl.exe",
+      "args": ["mcp", "--jobs-dir", "./.cleanplate-jobs"]
+    }
+  }
+}
